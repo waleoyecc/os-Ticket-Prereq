@@ -22,7 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1 
+- Item 1 ![image](https://github.com/waleoyecc/os-Ticket-Prereq/assets/140360882/e7b5cb8e-5ef8-4a6d-b921-d1248223674f)
+
 - Item 2
 - Item 3
 - Item 4
